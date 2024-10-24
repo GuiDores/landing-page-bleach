@@ -45,18 +45,18 @@
     font-family: "Noto Sans JP", sans-serif;
     font-weight: 400;
     font-size: 44px;
-    color: #FFF2E7;
+    color: #ffe9e7;
 }
 
 .conteudo-principal-subtitulo {
     font-family: "Sarala", sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #f7c66b;
+    color: #3a85cabe;
 }
 
 .conteudo-principal-botao {
-    background-color: #f7c66b;
+    background-color: #16378bb7;
     width: 180px;
     height: 60px;
     border: none;
@@ -68,15 +68,14 @@
     font-family: "Sarala", sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #FFF2E7;
+    color: #e7f1ff;
 }
 .conteudo-principal-botao:hover {
-    background-color: #f1bb55;
+    background-color: #24469cb7;
 }
 
 .conteudo-principal-imagem {
     height: 430px;
-    border-radius: 50%;
 }
 
 .conteudo-secundario {
